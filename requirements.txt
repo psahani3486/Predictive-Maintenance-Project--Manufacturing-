@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+joblib
+flask
+matplotlib
+seaborn
+tqdm
+shap
+xgboost
+lightgbm
+waitress>=2.2.0
+requests
+jsonify
