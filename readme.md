@@ -247,10 +247,6 @@ docker run -p 5000:5000 pm-app
 3. Make changes and add tests
 4. Submit a pull request
 
-## License
-
-MIT License - see LICENSE file for details.
-
 ## Notes
 
 - This is a demonstration project. For production use, add authentication, input validation, rate limiting, and monitoring.
